@@ -13,6 +13,10 @@
 
 - HTML
   - 클래스 네이밍: `형태-의미`
+  - 태그 속성
+    - button: `type="1" class="2"`
+    - img: `src="1" alt="2" class="3"`
+    - input: `type="1" placeholder="2" class="3"`
 
 <br>
 
