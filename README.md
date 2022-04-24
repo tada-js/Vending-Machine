@@ -18,4 +18,4 @@
 
 ## 레이아웃
 
-![벤딩머신_레이아웃](./%EB%B2%A4%EB%94%A9%EB%A8%B8%EC%8B%A0_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83.png)
+![](https://velog.velcdn.com/images/new__world/post/f69fa883-da3e-40dd-b9a5-858e4f207752/image.png)
